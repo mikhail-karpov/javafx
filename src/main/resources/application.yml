@@ -1,0 +1,7 @@
+spring:
+  main:
+    web-applicsation-type: none
+
+app:
+  title: JavaFX and Spring Boot
+  welcome: Welcome to JavaFX and Srping Boot
